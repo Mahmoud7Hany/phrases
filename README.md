@@ -1,2 +1,4 @@
 # phrases
- Language: dart 
+* linguist-language=language
+* linguist-language=dart
+
